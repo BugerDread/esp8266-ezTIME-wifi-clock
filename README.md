@@ -16,7 +16,7 @@ Second display is chained to the first one:
 
 ![daisy-chained-max-modules](max7219-dch.png)
 
-Power both displays from +5V (Vin), don't use 3.3V out of ESP (this will fry the 3.3V voltage regulator on ESP board).
+Power both displays from +5V (Vin), don't use 3.3V output of ESP (this will fry the 3.3V voltage regulator on ESP board).
 
 ## Have a fun!
 ![test-version](esp-ntp-clock.jpg)
