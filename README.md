@@ -18,4 +18,5 @@ Second display is chained to the first one:
 
 Power both displays from +5V (Vin), don't use 3.3V out of ESP (this will fry the 3.3V voltage regulator on ESP board).
 
-Have a fun!
+## Have a fun!
+![test-version](esp-ntp-clock.jpg)
