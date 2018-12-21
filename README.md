@@ -21,4 +21,6 @@ Power both displays from +5V (Vin), don't use 3.3V output of ESP (this will fry 
 ## Have a fun!
 ![test-version](esp-ntp-clock.jpg)
 
+![serial-debug-output](ntp-clock-serialout.png)
+
 See https://github.com/BugerDread/cryptoticker-by-dread-cz if you want to turn them into Bitcoin / altcoin ticker (uses the same HW setup).
